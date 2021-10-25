@@ -5,6 +5,6 @@ There exists right skewness in data for numerical columns. Shapiro-Wilk and Ande
 Chi-square test is applied for categorical columns in order to test whether there exist differences between distributions for target columns.
 Correlation analysis for an imbalanced data set is applied by using undersampling methods.
 
-### Application of Shapiro-Wilk, Anderson Darling, Chi-square
-### Correlation analysis for imbalanced data
-### Outlier detection
+# Application of Shapiro-Wilk, Anderson Darling, Chi-square tests
+# Correlation analysis for imbalanced data
+# Outlier detection
