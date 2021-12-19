@@ -1,4 +1,4 @@
-## data_analysis for imbalanced data
+### data_analysis for imbalanced data
 In this notebook, I applied statistical methods for imbalanced data analysis.
 In terms of basics, it starts with null check, data description and handling missing values.
 There exists right skewness in data for numerical columns. Shapiro-Wilk and Anderson darling tests are applied to prove that data is not distributed normally.  Outlier detection with IGR is applied for numerical columns.
